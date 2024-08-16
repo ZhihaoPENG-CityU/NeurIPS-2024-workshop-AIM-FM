@@ -1,4 +1,4 @@
-# NeurIPS-2024-workshop-AIM-FM
+# NeurIPS'24-workshop-AIM-FM
 NeurIPS 2024 workshop AIM-FM
 
 👋 Call for papers to our NeurIPS 2024 workshop AIM-FM: Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond. 
